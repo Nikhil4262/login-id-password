@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "segoe ui", verdana, helvetica, arial, sans-serif;
+    font-size: 16px;
+  }
+body{
+      background: url(forgot.jpg);
+      backdrop-filter: blur;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: cover top 50px;
+      
+  }
+  .row {
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 200px;
+    background: transparent;
+    margin: 5% auto;
+    padding: 10px 0;
+    color: black;
+  }
+.form-group{
+    margin: 30px auto;
+    width: 90%;
+    padding-top: 10px;
+    padding-top: 5px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 1.5em;
+}
+.information-text{
+    text-align: left;
+}
+  
